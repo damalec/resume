@@ -22,3 +22,7 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Fixed minor edge case in input handling
 - Wrote notes on upcoming feature design
+
+## 2026-03-30
+- Documented config options
+- Refactored module structure for clarity
